@@ -1,4 +1,4 @@
-# e_wallet_1
+# e_wallet
 
 A new Flutter project.
 
